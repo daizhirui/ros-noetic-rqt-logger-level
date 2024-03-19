@@ -1,6 +1,6 @@
 pkgbase = ros-noetic-rqt-logger-level
 	pkgdesc = ROS - rqt_logger_level provides a GUI plugin for configuring the logger level of ROS nodes.
-	pkgver = 0.4.11
+	pkgver = 0.4.12
 	pkgrel = 1
 	url = https://wiki.ros.org/rqt_logger_level
 	arch = any
@@ -15,8 +15,7 @@ pkgbase = ros-noetic-rqt-logger-level
 	depends = ros-noetic-rqt-gui
 	depends = ros-noetic-rospy
 	depends = python-rospkg
-	source = ros-noetic-rqt-logger-level-0.4.11.tar.gz::https://github.com/ros-visualization/rqt_logger_level/archive/0.4.11.tar.gz
-	sha256sums = 4b768cb8048bcdd86b4fe93d8249652d3275dd62e45f32155ef5c136336f55a4
+	source = ros-noetic-rqt-logger-level-0.4.12.tar.gz::https://github.com/ros-visualization/rqt_logger_level/archive/0.4.12.tar.gz
+	sha256sums = 775f3c2777afe3ad39d4d1dc02bf8a3b1311ca3c7666c7d8ba5f2a8266604db3
 
 pkgname = ros-noetic-rqt-logger-level
-
